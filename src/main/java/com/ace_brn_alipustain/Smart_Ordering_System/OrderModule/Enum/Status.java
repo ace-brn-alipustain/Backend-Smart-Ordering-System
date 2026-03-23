@@ -1,0 +1,5 @@
+package com.ace_brn_alipustain.Smart_Ordering_System.OrderModule.Enum;
+
+public enum Status {
+    PENDING,PAID
+}
